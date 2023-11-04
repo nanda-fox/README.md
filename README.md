@@ -1,2 +1,4 @@
-# README.md
-to estudando, sei la oq to fazendo
+# curso Digital: git
+
+## salvando alterações no git
+* comando git push
